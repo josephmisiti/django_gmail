@@ -1,3 +1,9 @@
 django>=1.5.1
 wheel==0.24.0
-# Additional requirements go here
+
+# django model magic
+django-model-utils>=1.4.0
+
+# google api stuff
+oauth2client
+google-api-python-client
